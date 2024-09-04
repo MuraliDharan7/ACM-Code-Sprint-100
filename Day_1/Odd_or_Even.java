@@ -6,6 +6,7 @@ public class Odd_or_Even{
 
         System.out.print("Enter number: ");
         int num = sc.nextInt();
+        
         if(num==0){
             System.out.println("Number is Zero");
         }
