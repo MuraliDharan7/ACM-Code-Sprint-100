@@ -28,5 +28,6 @@ public class greatestOfThree {
             num[i] = sc.nextInt();
         }
         System.out.println(secondType(num));
+        sc.close();
     }
 }

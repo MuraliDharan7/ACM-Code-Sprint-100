@@ -10,5 +10,7 @@ public class leapOrNot {
         int num = sc.nextInt();
 
         System.out.println(CheckLeap(num));
+        sc.close();
     }
+
 }
