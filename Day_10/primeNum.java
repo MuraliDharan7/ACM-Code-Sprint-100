@@ -16,5 +16,7 @@ public class primeNum {
         int n = sc.nextInt();
 
         System.out.println(checkPrime(n));
+
+        sc.close();
     } 
 }
