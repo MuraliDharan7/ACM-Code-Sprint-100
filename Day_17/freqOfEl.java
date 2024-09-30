@@ -23,5 +23,6 @@ public class freqOfEl {
         int x = sc.nextInt();
 
         System.out.print(countFreq(arr, x));
+        sc.close();
     }
 }
