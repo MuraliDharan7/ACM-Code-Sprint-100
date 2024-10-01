@@ -5,7 +5,7 @@ public class CheckVowelConsonant {
         String vowels = "aeiouAEIOU";
 
         if(vowels.indexOf(ch) != -1){
-            System.out.println(ch+ " is an character");
+            System.out.println(ch+ " is an vowel");
         }
         else{
             System.out.println(ch+ " is an consonant");
