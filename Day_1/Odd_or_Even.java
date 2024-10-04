@@ -5,7 +5,7 @@ public class Odd_or_Even{
         Scanner sc= new Scanner(System.in);
 
         System.out.print("Enter number: ");
-        int num = sc.nextInt();
+        int num = sc.nextInt(); //for integer input
         
         if(num==0){
             System.out.println("Number is Zero");
