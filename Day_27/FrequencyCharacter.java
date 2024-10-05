@@ -11,7 +11,7 @@ public class FrequencyCharacter {
         }
 
         for(HashMap.Entry<Character, Integer> entry: freqMap.entrySet()){
-            System.out.println(entry.getKey()+" : "+entry.getValue());
+            System.out.println(entry.getKey()+" : "+entry.getValue()); //key + value ex. 1 : 4times
         }
     }
     public static void main(String[] args){
